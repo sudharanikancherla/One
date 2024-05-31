@@ -1,0 +1,53 @@
+*{
+  box-sizing: border-box;
+  margin:0% ;
+  /* border:1px solid red;  */
+}
+.navbar{
+    background-color: rgb(209, 29, 59);
+}
+.nav-item .nav-link{
+    color:white !important;
+    font-weight: bold;
+    font-size: 20px;
+}
+.navbar-brand{
+    width:15%;
+}
+/* home */
+.bgimg{
+    background-image: url("https://img.freepik.com/free-photo/pink-white-flowers-waffle-ice-cream-cone-dual-surface_23-2147927178.jpg?t=st=1717134645~exp=1717138245~hmac=b3a687ddc9725f48486468929fbe81764748e960445a00da59768eb7c4793be7&w=740");
+    background-size: cover;
+    width:99vw;
+    height:100vh;
+    background-position:center;
+
+}
+.head1{
+    font-weigth:bold;
+    color:white;
+    font-size:60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+}
+.one{
+    width:30%;
+    font-size: 20px;
+    
+}
+.para{
+    margin-top:-1%;
+    margin-left:5%;
+}
+.head2{
+    color:green;
+    font-size: 45px;
+    font-weight: bold;
+    margin-top: 5%;
+    margin-bottom:2%;
+}
+.imageries{
+    width:100%;
+    aspect-ratio: 3/2;
+    object-fit:cover;
+}
