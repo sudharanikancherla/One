@@ -46,8 +46,33 @@
     margin-top: 5%;
     margin-bottom:2%;
 }
+/* About */
 .imageries{
     width:100%;
     aspect-ratio: 3/2;
     object-fit:cover;
+}
+.card-img-top{
+    width:100%;
+    aspect-ratio: 3/2;
+    object-fit: cover;
+}
+.card title{
+    color:rgb(196, 67, 89);
+    font-size: 20px;
+}
+.card-group{
+    margin-bottom:3%;
+}
+.three{
+    border: 1px solid green;
+    color:rgb(224, 78, 102);
+    font-size: 15px;
+}
+/* products */
+.io{
+    width:100%;
+    aspect-ratio: 3/2;
+    object-fit: cover;
+
 }
